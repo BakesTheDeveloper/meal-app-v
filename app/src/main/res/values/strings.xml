@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">MyFoodAppAssigment1</string>
+    <string name="reset" />
 </resources>

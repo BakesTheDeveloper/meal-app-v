@@ -77,18 +77,18 @@ tools:ignore="DuplicateIds">
     app:layout_constraintTop_toBottomOf="@+id/mealButton"
     app:layout_constraintVertical_bias="0.566" />
 
-<Button
-    android:id="@+id/ResetButton"
-    android:layout_width="179dp"
-    android:layout_height="51dp"
-    android:layout_marginHorizontal="115dp"
-    android:gravity="center|center_horizontal"
-    android:text="@string/reset"
-    android:textColor="#090909"
-    app:layout_constraintEnd_toEndOf="parent"
-    app:layout_constraintHorizontal_bias="0.5"
-    app:layout_constraintStart_toStartOf="parent"
-    tools:layout_editor_absoluteY="548dp" />
+    <Button
+        android:id="@+id/ResetButton"
+        android:layout_width="179dp"
+        android:layout_height="51dp"
+        android:layout_marginHorizontal="115dp"
+        android:gravity="center|center_horizontal"
+        android:text="Reset"
+        android:textColor="#090909"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.5"
+        app:layout_constraintStart_toStartOf="parent"
+        tools:layout_editor_absoluteY="548dp" />
 
 
 </LinearLayout>
