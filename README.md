@@ -1,4 +1,5 @@
 #ST10469661
+
 Meal Suggestion App 
 
 This app was made in Android Studio and was coded in the Kotlin language. Found to work best with Android API 26+. 
@@ -29,20 +30,20 @@ FAQ
 
 How do I download it? 
 
-Clone this repository: https://github.com/BakesTheDeveloper/meal-app-v 
+ - Clone this repository: https://github.com/BakesTheDeveloper/meal-app-v 
 
 How do I use it? 
 
-Input one of the given options and press “get suggestion.” If you make a mistake, you can hit the reset button. 
+ - Input one of the given options and press “get suggestion.” If you make a mistake, you can hit the reset button. 
 
 What updates are coming? 
 
-There will be Ui updates in the coming week 
+ - There will be Ui updates in the coming week 
 
-Potentially I will add a randomizer switch where everything is randomised 
+ - Potentially I will add a randomizer switch where everything is randomised 
 
-An interchangeable background photo 
+ - An interchangeable background photo 
 
 Is there a video that I can refer to if I'm lost? 
 
-Go to the following link: https://youtu.be/o7voMUQieB8 
+ - Go to the following link: https://youtu.be/o7voMUQieB8 
