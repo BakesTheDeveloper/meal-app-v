@@ -30,7 +30,7 @@ FAQ
 
 How do I download it? 
 
- - Clone this repository: https://github.com/BakesTheDeveloper/meal-app-v 
+ - Clone this repository: [https://github.com/BakesTheDeveloper/meal-app-v](https://github.com/BakesTheDeveloper/meal-app-v.git) 
 
 How do I use it? 
 
