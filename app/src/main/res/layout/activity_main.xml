@@ -5,7 +5,7 @@
     android:id="@+id/main"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    android:background="#847C2C48"
+    android:background="@drawable/pint"
     android:orientation="vertical"
     tools:context=".MainActivity"
     tools:ignore="DuplicateIds">
@@ -20,7 +20,7 @@
         android:text="meal suggestions app"
         android:textAlignment="center"
         android:textAllCaps="true"
-        android:textColor="#0B0B0B"
+        android:textColor="#FFFFFF"
         android:textSize="34sp" />
 
     <TextView
@@ -31,7 +31,7 @@
         android:gravity="center_horizontal"
         android:text="Please Enter One: Morning, MId-Morning, Afternoon, Late-Noon, Supper"
         android:textAlignment="center"
-        android:textColor="#090909"
+        android:textColor="#FAF7F7"
         android:textSize="24sp"
         tools:layout_editor_absoluteX="64dp"
         tools:layout_editor_absoluteY="116dp" />
@@ -42,7 +42,7 @@
         android:layout_height="wrap_content"
         android:layout_marginHorizontal="85dp"
         android:text="Get Suggestion"
-        android:textColor="#090909"
+        android:textColor="#FFFEFE"
         app:iconTint="#040404"
         tools:layout_editor_absoluteX="132dp"
         tools:layout_editor_absoluteY="308dp" />
@@ -64,8 +64,8 @@
 
     <TextView
         android:id="@+id/SuggestionView"
-        android:layout_width="344dp"
-        android:layout_height="75dp"
+        android:layout_width="372dp"
+        android:layout_height="62dp"
         app:layout_constraintBottom_toTopOf="@+id/ResetButton"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintHorizontal_bias="0.0"
@@ -80,7 +80,8 @@
         android:layout_marginHorizontal="85dp"
         android:gravity="center|center_horizontal"
         android:text="Reset"
-        android:textColor="#090909"
+        android:textColor="#FBFAFA"
+        app:iconTint="#0B0B0B"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintHorizontal_bias="0.5"
         app:layout_constraintStart_toStartOf="parent"
